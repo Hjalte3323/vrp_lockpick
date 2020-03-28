@@ -1,11 +1,11 @@
-# FiveM Scripts
+# vrp_lockpick
 
-Her er kommer jeg til at uploade forskellige FiveM vRP filer 
+Lockpicking af køretøjer.
 
-## Funktioner
+## Hvordan installere jeg det?
 
 ```bash
-Det er basically drag n' drop på jeres server det eneste i skal huske er at starte scriptet
+Det er basically drag n' drop på jeres server det eneste i skal huske er at starte scriptet.
 ```
 
-Readme bliver løbende opdateret
+Readme bliver løbende opdateret.
